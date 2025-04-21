@@ -23,7 +23,7 @@ Netflix Movies and TV shows
    - Used Excel's "Remove Duplicates" feature to eliminate duplicate records from columns like "title" and "description".
 
 3. **Standardized Text Values:**
-   - Values in all the columns especially in country column are already standardized.
+   - Values in all the columns especially in "country" column are already standardized.
 
 4. **Formatted Dates:**
    - Converted "date_added" field to a consistent format (`dd-mm-yyyy`) for uniformity from non uniform format using "format cells" feature.
